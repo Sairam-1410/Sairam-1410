@@ -20,6 +20,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://instagram.com/urs_sairam_10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="urs_sairam_10" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sairam-ajja-73b282330" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sairam-ajja-73b282330" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/sairamajja986" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sairamajja986" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sairam_ajja_10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sairam_ajja_10" height="30" width="40" /></a>
